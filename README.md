@@ -5,10 +5,10 @@
 * Client ve server şeklinde bir iletişim program oluşturmalısınız.
 * • İlk olarak server başlatılmalıdır. Başlatıldıktan sonra PID’sini. yazdırması gerekir.
 * • The client takes two parameters:
-*. ◦ Server PID.
-*. ◦ Gönderilecek string.
+*    ◦ Server PID.
+*    ◦ Gönderilecek string.
 * • Client, parametre olarak iletilen String’i server’a göndermelidir.
-* String alındıktan sonra server’in onu yazdırması gerekir.
+*   String alındıktan sonra server’in onu yazdırması gerekir.
 
 # Bonus
 * Alım onay sistemi ekle
